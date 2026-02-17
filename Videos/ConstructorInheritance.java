@@ -43,6 +43,6 @@ public class ConstructorInheritance{
         // Base b = new Base();
         // Derieved d = new Derieved(10,20);
         // Child c = new Child();
-        // Child c = new Child(10,20,30);
+        Child c = new Child(10,20,30);
     }
 }

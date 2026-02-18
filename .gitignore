@@ -46,3 +46,4 @@ cmake-build-release/
 Thumbs.db
 
 *.class
+/.metadata/

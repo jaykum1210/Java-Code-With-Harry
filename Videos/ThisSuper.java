@@ -17,6 +17,7 @@ class B extends A{
     }
 }
 
+
 public class ThisSuper{
     public static void main(String[] args) {
         A a = new A(10);

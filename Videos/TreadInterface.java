@@ -1,4 +1,4 @@
-class MyThread11 implements Runnable{
+	class MyThread11 implements Runnable{
 	public void run() {
 		int i = 0;
 		while(i<10) {
@@ -27,7 +27,7 @@ public class TreadInterface {
 		Thread t2 = new Thread(r2);
 		
 		t1.start();
-		t2.start();
+		t2.start(); 
 	}
 
 }
